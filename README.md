@@ -1,6 +1,6 @@
 # xvm-config
 
-Config script for [XVM](modxvm.com/en/)
+Config script for [XVM](https://modxvm.com/en/)
 
 Requirements:
 1. Windows 10 with WSL configured (only tested with Ubuntu)
